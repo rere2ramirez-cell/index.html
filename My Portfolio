@@ -231,7 +231,7 @@ footer {
         <a href="#contact" class="btn">CONTACT ME</a>
     </div>
 
-    <div class="hero-img">
+    <div class="ramirez.jpg">
         <img src="profile.jpg" alt="Renier Profile">
     </div>
 </section>
